@@ -7,3 +7,7 @@ DIAGRAMA:
 DIAGRAMA DE CLASSE:
 
 ![image](https://github.com/Caioosm/GYMBUDDY/assets/126176080/f405597a-6798-44ff-a7b9-a77ff1d406c5)
+
+DIAGRAMA DE SEQUÊNCIA:
+
+![image](https://github.com/Caioosm/GYMBUDDY/assets/126176080/13a0db77-604f-424e-8b35-3ec7ace95bd2)
